@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  height: 1080;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
